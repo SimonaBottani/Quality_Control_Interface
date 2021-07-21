@@ -21,7 +21,7 @@ This repository contains the jupyter notebook of the implementation described in
 
 
 #### How it works
-The code produces a screesnhto fo the central slice of the 3D T1w brain MRI. The user can annotate 5 different characteristics:
+The code produces a screenshot of the central slice of the 3D T1w brain MRI. The user can annotate 5 different characteristics:
 - `r`: the image is not a complete 3D T1w brain MRI
 - `k`: if the image is injected with gadolinium
 - `a`: some motion, `aa` severe motion
