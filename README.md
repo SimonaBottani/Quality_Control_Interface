@@ -1,7 +1,7 @@
 ## Quality Control Interface
 Implementation of a graphical interface in a jupyter notebook for the annotation of the quality control of 3D T1w brain MRI from a clinical dataset
 
-This repository contains the jupyter notebook of the implementation described in Bottani et al. 2021 for the quality control of 3D T1w brain MRI
+This repository contains the jupyter notebook of the implementation described in Bottani et al. 2021 ([#1][i1]) for the quality control of 3D T1w brain MRI
 
 #### Dependencies
 - Python 3.6.2
@@ -33,3 +33,5 @@ The final label is automatically calculated (see Bottani et al. 2021 for more de
 
 #### Final output
 Txt file containing the code assigned by the user and the final label for each image
+
+[1] https://arxiv.org/abs/2104.08131v1
