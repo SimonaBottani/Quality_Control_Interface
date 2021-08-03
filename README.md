@@ -34,4 +34,6 @@ The final label is automatically calculated (see Bottani et al. 2021 for more de
 #### Final output
 Txt file containing the code assigned by the user and the final label for each image
 
+## Citing this work
+
 >  Bottani et al. https://arxiv.org/abs/2104.08131v1
