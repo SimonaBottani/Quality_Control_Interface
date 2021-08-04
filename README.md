@@ -36,4 +36,4 @@ Txt file containing the code assigned by the user and the final label for each i
 
 ## Citing this work
 
-> S. Bottani, N. Burgos, A. Maire, A. Wild, S. Ströer, D. Dormont, O. Colliot, the APPRIMAGE Study Group, **Automatic quality control of brain T1-weighted magnetic resonance images for a clinical data warehouse**, Available on Arxi: https://arxiv.org/abs/2104.08131v1
+> S. Bottani, N. Burgos, A. Maire, A. Wild, S. Ströer, D. Dormont, O. Colliot, the APPRIMAGE Study Group, **Automatic quality control of brain T1-weighted magnetic resonance images for a clinical data warehouse**, Available on Arxiv: https://arxiv.org/abs/2104.08131v1
